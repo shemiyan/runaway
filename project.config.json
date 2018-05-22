@@ -1,0 +1,35 @@
+{
+	"description": "跑的快啊",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"scripts": {  
+		"server": "live-server ./ --port=8081"  
+	  },
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wxfd894e8912a8d8c8",
+	"projectname": "runaway",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
